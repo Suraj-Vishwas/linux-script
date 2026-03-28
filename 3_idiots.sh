@@ -2,7 +2,7 @@
 
 # user defined variables
 
-hero="rancho"
+hero="ranchordas"
 villain="dean"
 
 echo "villain is : $villain"
